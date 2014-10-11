@@ -48,8 +48,8 @@ test:
   encoding: unicode
   database: p5_dev
   pool: 5
-  username: rafael
-  password: 12345
+  username: p5_dev
+  password:
 
 production:
   adapter: postgresql
